@@ -1,8 +1,9 @@
 # Large generated model artifacts (optional to exclude if repo size is a concern)
 # Uncomment lines below if you don't want to commit large binary files to GitHub
-# results/models/*.npy
-# results/models/*.joblib
-# results/models/bert_binary_best_model/
+results/models/*.npy
+results/models/*.joblib
+results/models/bert_binary_best_model/
+results/models/bert_binary_results/
 
 # Python
 __pycache__/
